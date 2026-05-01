@@ -2,8 +2,8 @@
 
 ## A human–AI mini-exhibit for a raised-type New Testament in University of Glasgow Special Collections
 
-**Selected object:** Tactile New Testament printed in high relief for blind readers, c. 1850  
-**Collection reference:** University of Glasgow Special Collections, Sp Coll RF 256 / RF 257  
+**Selected object:** Tactile New Testament printed in high relief for blind readers, 1850, New York: American Bible Society. 
+**Collection reference:** University of Glasgow Special Collections, Sp Coll RF 256, vol. 1 / Sp Coll RF 257, vol. 2.
 
 ## Project summary
 
