@@ -1,3 +1,6 @@
-pillow
+Pillow
 numpy
 pandas
+ipython
+jupyter
+notebook
